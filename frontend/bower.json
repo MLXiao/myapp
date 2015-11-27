@@ -1,0 +1,16 @@
+{
+  "name": "myapp",
+  "homepage": "https://github.com/MLXiao/myapp",
+  "authors": [
+    "Martin Xiao"
+  ],
+  "description": "myapp",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-ui-router": "*"
+  }
+}

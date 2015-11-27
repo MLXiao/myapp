@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "writen by angularjs and nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MLXiao/myapp.git"
+  },
+  "author": "Martin Xiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLXiao/myapp/issues"
+  },
+  "homepage": "https://github.com/MLXiao/myapp#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
