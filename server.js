@@ -1,23 +1,25 @@
 var express = require('express');
 var app = express();
-var port = 9090;
+var consts = require('./config/consts');
 var morgan = require('morgan');
+//app.use(morgan('combined', {stream: accessLogStream}));
+//var accessLogStream = fs.createWriteStream('./log/access.log', {flags: 'a'});
 
-app.use(express.static('./frontend'));
 app.use(morgan('dev'));
+app.use(express.static(consts.STATIC_ROOT));
 
-app.use(function(req, res) {
-    var path = req.path;
-    //console.log(path);
-    if ( /^\/api/gi.test(path)) {
-        res.send('api');
-    } else if (/^\/example/gi.test(path)) {
-        res.sendfile('./frontend/example/index.html');
+app.use('/api', function(req, res, next) {
+    res.send('api');
+});
+
+
+app.use(function(req, res, next) {
+    if (!consts.REG_OF_NOT_NG_PATH.test(req.path)) {
+        res.sendfile(consts.STATIC_ROOT + '/index.html');
     } else {
-        console.log(path);
-        res.sendfile('./frontend/index.html');
+        next();
     }
 });
 
-app.listen(port);
-console.log("App listening on port " + port);
+app.listen(consts.SERVER_PORT);
+console.log('App listening on port ' + consts.SERVER_PORT);

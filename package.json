@@ -17,6 +17,7 @@
   "homepage": "https://github.com/MLXiao/myapp#readme",
   "dependencies": {
     "express": "^4.13.3",
+    "fs": "*",
     "morgan": "^1.6.1"
   }
 }
