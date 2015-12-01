@@ -2,259 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d99158-ec05-444d-bc3c-cef3743ae93d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/.bowerrc" afterPath="$PROJECT_DIR$/public/.bowerrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower.json" afterPath="$PROJECT_DIR$/public/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/consts.js" afterPath="$PROJECT_DIR$/config/consts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\.bowerrc" afterPath="$PROJECT_DIR$/public/.bowerrc" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\bower.json" afterPath="$PROJECT_DIR$/public/bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\example\index.html" afterPath="$PROJECT_DIR$/public/example/index.html" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\.bower.json" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/.bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\CHANGELOG.md" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/CHANGELOG.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\CONTRIBUTING.md" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\LICENSE" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/LICENSE" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\README.md" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/README.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\api\angular-ui-router.d.ts" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/api/angular-ui-router.d.ts" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\bower.json" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\release\angular-ui-router.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/release/angular-ui-router.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\release\angular-ui-router.min.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/release/angular-ui-router.min.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\common.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/common.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\resolve.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/resolve.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\state.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/state.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\stateDirectives.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/stateDirectives.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\stateFilters.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/stateFilters.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\templateFactory.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/templateFactory.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\urlMatcherFactory.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/urlMatcherFactory.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\urlRouter.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/urlRouter.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\view.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/view.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\viewDirective.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/viewDirective.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular-ui-router\src\viewScroll.js" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/viewScroll.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\.bower.json" afterPath="$PROJECT_DIR$/public/lib/angular/.bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\README.md" afterPath="$PROJECT_DIR$/public/lib/angular/README.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\angular-csp.css" afterPath="$PROJECT_DIR$/public/lib/angular/angular-csp.css" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\angular.js" afterPath="$PROJECT_DIR$/public/lib/angular/angular.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\angular.min.js" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\angular.min.js.gzip" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.gzip" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\angular.min.js.map" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\bower.json" afterPath="$PROJECT_DIR$/public/lib/angular/bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\index.js" afterPath="$PROJECT_DIR$/public/lib/angular/index.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\angular\package.json" afterPath="$PROJECT_DIR$/public/lib/angular/package.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\.bower.json" afterPath="$PROJECT_DIR$/public/lib/bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\CHANGELOG.md" afterPath="$PROJECT_DIR$/public/lib/bootstrap/CHANGELOG.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\Gruntfile.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/Gruntfile.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\LICENSE" afterPath="$PROJECT_DIR$/public/lib/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\README.md" afterPath="$PROJECT_DIR$/public/lib/bootstrap/README.md" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\bower.json" afterPath="$PROJECT_DIR$/public/lib/bootstrap/bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap.css" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\css\bootstrap.min.css.map" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\dist\js\npm.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/js/npm.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\.jshintrc" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/.jshintrc" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\configBridge.json" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/configBridge.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\grunt\sauce_browsers.yml" afterPath="$PROJECT_DIR$/public/lib/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\.jscsrc" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/.jscsrc" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\.jshintrc" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/.jshintrc" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\affix.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\alert.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\button.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\carousel.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\collapse.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\dropdown.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\modal.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\popover.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\scrollspy.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\tab.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\tooltip.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\js\transition.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\.csscomb.json" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/.csscomb.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\.csslintrc" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/.csslintrc" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\alerts.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/alerts.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\badges.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/badges.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\bootstrap.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/bootstrap.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\breadcrumbs.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\button-groups.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/button-groups.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\buttons.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/buttons.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\carousel.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/carousel.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\close.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/close.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\code.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/code.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\component-animations.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/component-animations.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\dropdowns.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/dropdowns.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\forms.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/forms.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\glyphicons.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/glyphicons.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\grid.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/grid.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\input-groups.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/input-groups.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\jumbotron.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/jumbotron.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\labels.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/labels.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\list-group.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/list-group.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\media.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/media.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\alerts.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/alerts.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\background-variant.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/background-variant.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\border-radius.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/border-radius.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\buttons.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/buttons.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\center-block.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/center-block.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\clearfix.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/clearfix.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\forms.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/forms.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\gradients.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/gradients.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\grid-framework.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/grid-framework.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\grid.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/grid.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\hide-text.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/hide-text.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\image.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/image.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\labels.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/labels.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\list-group.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/list-group.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\nav-divider.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/nav-divider.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\nav-vertical-align.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\opacity.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/opacity.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\pagination.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/pagination.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\panels.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/panels.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\progress-bar.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/progress-bar.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\reset-filter.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/reset-filter.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\reset-text.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/reset-text.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\resize.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/resize.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\responsive-visibility.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\size.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/size.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\tab-focus.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/tab-focus.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\table-row.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/table-row.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\text-emphasis.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\text-overflow.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/text-overflow.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\mixins\vendor-prefixes.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\modals.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/modals.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\navbar.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/navbar.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\navs.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/navs.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\normalize.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/normalize.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\pager.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/pager.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\pagination.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/pagination.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\panels.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/panels.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\popovers.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/popovers.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\print.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/print.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\progress-bars.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/progress-bars.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\responsive-embed.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/responsive-embed.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\responsive-utilities.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\scaffolding.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/scaffolding.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\tables.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/tables.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\theme.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/theme.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\thumbnails.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/thumbnails.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\tooltip.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/tooltip.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\type.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/type.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\utilities.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/utilities.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\variables.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/variables.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\less\wells.less" afterPath="$PROJECT_DIR$/public/lib/bootstrap/less/wells.less" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\nuget\MyGet.ps1" afterPath="$PROJECT_DIR$/public/lib/bootstrap/nuget/MyGet.ps1" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\nuget\bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/public/lib/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\nuget\bootstrap.nuspec" afterPath="$PROJECT_DIR$/public/lib/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\package.js" afterPath="$PROJECT_DIR$/public/lib/bootstrap/package.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\bootstrap\package.json" afterPath="$PROJECT_DIR$/public/lib/bootstrap/package.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\.bower.json" afterPath="$PROJECT_DIR$/public/lib/jquery/.bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/public/lib/jquery/MIT-LICENSE.txt" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\bower.json" afterPath="$PROJECT_DIR$/public/lib/jquery/bower.json" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\dist\jquery.js" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\dist\jquery.min.js" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.min.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\dist\jquery.min.map" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.min.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\jsonp.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/jsonp.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\load.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/load.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\parseJSON.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/parseJSON.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\parseXML.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/parseXML.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\script.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/script.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\var\nonce.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/var/nonce.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\var\rquery.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/var/rquery.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\ajax\xhr.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/xhr.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes\attr.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/attr.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes\classes.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/classes.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes\prop.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/prop.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes\support.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/support.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\attributes\val.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/val.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\callbacks.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/callbacks.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core\access.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/access.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core\init.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/init.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core\parseHTML.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/parseHTML.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core\ready.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/ready.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\core\var\rsingleTag.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/var/rsingleTag.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\addGetHookIf.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/addGetHookIf.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\curCSS.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/curCSS.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\defaultDisplay.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/defaultDisplay.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\support.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/support.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\swap.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/swap.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\var\cssExpand.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/cssExpand.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\var\getStyles.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/getStyles.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\var\isHidden.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/isHidden.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\var\rmargin.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/rmargin.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\css\var\rnumnonpx.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/rnumnonpx.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\data.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\data\Data.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/Data.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\data\accepts.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/accepts.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\data\var\data_priv.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/var/data_priv.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\data\var\data_user.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/var/data_user.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\deferred.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/deferred.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\deprecated.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/deprecated.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\dimensions.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/dimensions.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\effects.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\effects\Tween.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects/Tween.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\effects\animatedSelector.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects/animatedSelector.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\event.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\event\ajax.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/ajax.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\event\alias.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/alias.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\event\support.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/support.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\exports\amd.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/exports/amd.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\exports\global.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/exports/global.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\intro.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/intro.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\jquery.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/jquery.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\manipulation.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\manipulation\_evalUrl.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/_evalUrl.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\manipulation\support.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/support.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\manipulation\var\rcheckableType.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\offset.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/offset.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\outro.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/outro.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\queue.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/queue.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\queue\delay.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/queue/delay.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\selector-native.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/selector-native.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\selector-sizzle.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/selector-sizzle.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\selector.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/selector.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\serialize.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/serialize.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\sizzle\dist\sizzle.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\sizzle\dist\sizzle.min.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\sizzle\dist\sizzle.min.map" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\traversing.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\traversing\findFilter.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing/findFilter.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\traversing\var\rneedsContext.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\arr.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/arr.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\class2type.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/class2type.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\concat.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/concat.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\hasOwn.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/hasOwn.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\indexOf.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/indexOf.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\pnum.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/pnum.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\push.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/push.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\rnotwhite.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/rnotwhite.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\slice.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/slice.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\strundefined.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/strundefined.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\support.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/support.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\var\toString.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/toString.js" />
-      <change type="MOVED" beforePath="E:\projects\myapp\frontend\libs\jquery\src\wrap.js" afterPath="$PROJECT_DIR$/public/lib/jquery/src/wrap.js" />
     </list>
     <ignored path="myapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -275,31 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.733334">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.566667">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state vertical-scroll-proportion="-5.233333">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7067039">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.133333">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -309,7 +63,47 @@
         <entry file="file://$PROJECT_DIR$/config/consts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/.bowerrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.76666665">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js-src-path.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/lib/js-src-path.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.036858976">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css-src-path.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/lib/css-src-path.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -337,13 +131,18 @@
         <option value="$PROJECT_DIR$/frontend/example/index.html" />
         <option value="$PROJECT_DIR$/frontend/example/hello.text" />
         <option value="$PROJECT_DIR$/frontend/bower.json" />
-        <option value="$PROJECT_DIR$/public/.bowerrc" />
         <option value="$PROJECT_DIR$/api/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/log/access.log" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/consts.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/public/.bowerrc" />
+        <option value="$PROJECT_DIR$/public/bower.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/lib/js-src-path.js" />
       </list>
     </option>
   </component>
@@ -383,8 +182,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -435,6 +234,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -448,6 +309,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\projects\myapp\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\myapp\public" />
+      <recent name="E:\projects\myapp" />
     </key>
   </component>
   <component name="RunManager">
@@ -502,17 +367,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20600632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21285564" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19459459" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19459459" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29405406" sideWeight="0.49789253" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -520,6 +384,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -533,6 +398,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/consts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -569,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,19 +561,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.033478893">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/example/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13391557">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,33 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.733334">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23435226">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.566667">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,18 +583,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/consts.js">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7067039">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.133333">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.2">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.233333">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.76666665">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lib/css-src-path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/consts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lib/js-src-path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.036858976">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

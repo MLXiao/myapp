@@ -18,6 +18,17 @@
   "dependencies": {
     "express": "^4.13.3",
     "fs": "*",
-    "morgan": "^1.6.1"
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.11",
+    "gulp-nodemon": "^2.0.4",
+    "morgan": "^1.6.1",
+    "gulp-concat": "*",
+    "gulp-sass": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-uglify": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-ng-annotate": "*"
   }
 }

@@ -14,7 +14,7 @@ app.use('/api', function(req, res, next) {
 
 
 app.use(function(req, res, next) {
-    if (!consts.REG_OF_NOT_NG_PATH.test(req.path)) {
+    if (!/(\.|\/example)/g.test(req.path)) {
         res.sendfile(consts.STATIC_ROOT + '/index.html');
     } else {
         next();
