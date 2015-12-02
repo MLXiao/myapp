@@ -8,6 +8,10 @@ var morgan = require('morgan');
 app.use(morgan('dev'));
 app.use(express.static(consts.STATIC_ROOT));
 
+app.get('/api/test', function(req, res) {
+    res.send('hello');
+});
+
 app.use('/api', function(req, res, next) {
     res.send('api');
 });
