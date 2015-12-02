@@ -45,9 +45,20 @@ gulp.task('jsapp', function() {
         .pipe(gulp.dest('./public/js'));
 });
 
+gulp.task('css', function() {
+    gulp.src('public/scss/**/*.scss')
+        .pipe(sass().on('error', sass.logError))
+        .pipe(autoprefixer(['last 2 versions']))
+        .pipe(concat('app.css'))
+        .pipe(minifyCss())
+        .pipe(rename({suffix: ".min"}))
+        .pipe(gulp.dest('./public/css'));
+})
+
 gulp.task('watch', function() {
     gulp.watch(['public/app.js', 'public/service/**/*.js', 'public/directive/**/*.js', 'public/controller/**/*.js'], ['jsapp']);
+    gulp.watch('public/scss/**/*.scss', ['css']);
 });
 
-gulp.task('default', ['bower', 'jslib', 'jsapp', 'nodemon', 'watch']);
+gulp.task('default', ['bower', 'css', 'jslib', 'jsapp', 'nodemon', 'watch']);
 
