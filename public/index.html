@@ -8,8 +8,8 @@
     <link href="css/app.min.css" rel="stylesheet"/>
 </head>
 <body>
-    <div ng-controller="myCtrl"><span ng-bind="foo"></span></div>
-    <div ui-view></div>
+    <div ng-include="'view/nav.html'"></div>
+    <div class="main-container" ui-view></div>
     <script src="lib/jquery/dist/jquery.min.js"></script>
     <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="lib/angular/angular.min.js"></script>

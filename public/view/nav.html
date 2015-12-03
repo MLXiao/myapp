@@ -1,0 +1,18 @@
+<div ng-init="
+    nav = [
+        {'state': 'a', 'name': 'a'},
+        {'state': 'b', 'name': 'b'},
+        {'state': 'c', 'name': 'c'},
+        {'state': 'c.a', 'name': 'c.a'},
+        {'state': 'c.b', 'name': 'c.b'}
+    ]
+">
+    <ul class="list-inline my-nav">
+        <li ng-repeat="item in nav">
+            <span class="btn btn-default" ui-sref-active="btn-success" ui-sref-opts="{reload: true}" ui-sref="{{item.state}}">{{item.name}}</span>
+        </li>
+        <li>
+            <span class="btn btn-default" ui-sref-active="btn-success" ui-sref-opts="{reload: true}" ui-sref="c.d({id: 3})">c.d</span>
+        </li>
+    </ul>
+</div>

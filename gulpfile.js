@@ -13,14 +13,14 @@ var rename = require('gulp-rename');
 var jsPaths = require('./public/lib/js-src-path')
 
 gulp.task('nodemon', function() {
-    nodemon({script: './server.js'});
+    nodemon({script: './server.js', ignore: ['./public/']});
 });
 
 gulp.task('bower', function() {
     bower({cwd: './public'});
 });
 
-gulp.task('jslib', function() {
+gulp.task('jslib-builder', function() {
     for(var key in jsPaths) {
         var paths = jsPaths[key];
         console.log();
@@ -35,7 +35,7 @@ gulp.task('jslib', function() {
     }
 });
 
-gulp.task('jsapp', function() {
+gulp.task('jsapp-builder', function() {
     gulp.src(['public/app.js', 'public/service/**/*.js', 'public/directive/**/*.js', 'public/controller/**/*.js'])
         .pipe(sourcemaps.init())
         .pipe(concat('app.min.js'))
@@ -45,7 +45,7 @@ gulp.task('jsapp', function() {
         .pipe(gulp.dest('./public/js'));
 });
 
-gulp.task('css', function() {
+gulp.task('css-builder', function() {
     gulp.src('public/scss/**/*.scss')
         .pipe(sass().on('error', sass.logError))
         .pipe(autoprefixer(['last 2 versions']))
@@ -56,9 +56,9 @@ gulp.task('css', function() {
 })
 
 gulp.task('watch', function() {
-    gulp.watch(['public/app.js', 'public/service/**/*.js', 'public/directive/**/*.js', 'public/controller/**/*.js'], ['jsapp']);
-    gulp.watch('public/scss/**/*.scss', ['css']);
+    gulp.watch(['public/app.js', 'public/service/**/*.js', 'public/directive/**/*.js', 'public/controller/**/*.js'], ['jsapp-builder']);
+    gulp.watch('public/scss/**/*.scss', ['css-builder']);
 });
 
-gulp.task('default', ['bower', 'css', 'jslib', 'jsapp', 'nodemon', 'watch']);
+gulp.task('default', ['bower', 'css-builder', 'jslib-builder', 'jsapp-builder', 'nodemon', 'watch']);
 
